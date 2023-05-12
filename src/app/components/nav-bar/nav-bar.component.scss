@@ -1,0 +1,28 @@
+.navbar-container{
+    padding: 1rem 2rem;
+
+    .navbar-right{
+        .social{
+
+            a:hover{
+                transform: scale(1.2);
+            }
+
+            a.social-github{
+                color:white;
+            }
+            a.social-linkedin{
+                color: #007BB6;
+            }
+            a.social-facebook{
+                color: #3B5998;
+            }
+            a.social-instagram{
+                color: #C13584;
+            }
+            a.social-skype{
+                color: #00AFF0;
+            }
+        }
+    }
+}
